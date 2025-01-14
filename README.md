@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Nft Coding GIF by xponentialdesign](https://github.com/user-attachments/assets/9152a926-3576-40d7-9592-62fbeb449179)
+
 <!--
 **aleysary/aleysary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
