@@ -4,7 +4,7 @@
 ###### I’ve worked with a variety of tools and languages. While many of my projects are private, my public repositories give a glimpse into the diverse work I enjoy
 
 ___________________________________________________
-![satellite big data GIF by CNES](https://github.com/user-attachments/assets/42be3075-5d23-4e3e-903f-605a76b34fd6)
+![satellite big data GIF by CNES](https://github.com/user-attachments/assets/42be3075-5d23-4e3e-903f-605a76b34fd6)   Im working on something
 ___________________________________________________
 <!--
 **aleysary/aleysary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
