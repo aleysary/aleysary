@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Nft Coding GIF by xponentialdesign](https://github.com/user-attachments/assets/9152a926-3576-40d7-9592-62fbeb449179)
+![satellite big data GIF by CNES](https://github.com/user-attachments/assets/42be3075-5d23-4e3e-903f-605a76b34fd6)
 
 <!--
 **aleysary/aleysary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
