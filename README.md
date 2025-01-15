@@ -13,7 +13,7 @@
 <td>
 
 ### Current Projects:
-- **3D Game:** A 3d Game
+- **3D Game:** A challenging 3D survival game where players must navigate a dynamic environment, facing new challenges daily from resource gathering to defending against zombies.
 
 
 </td>
