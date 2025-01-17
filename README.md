@@ -1,6 +1,6 @@
 ##### Hi there 👋 
 ## Welcome to my Github Portfolio  
- <div style="width: 40px;"> <!-- Adjust the div size to scale down the icons -->
+ <div style="width: 30px;"> <!-- Adjust the div size to scale down the icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,java,py,cs,linux" style="width: 40%; height: auto;">
   </a>
