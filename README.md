@@ -5,12 +5,12 @@
 
 <table>
 <tr>
-<td>
+<td width="70%">
 
-<img src="https://github.com/user-attachments/assets/42be3075-5d23-4e3e-903f-605a76b34fd6" width="500" height="auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wKXa8oIBGD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </td>
-<td>
+<td width="30%">
 
 ### Current Projects:
 - **3D Game:** A challenging 3D survival game where players must navigate a dynamic environment, facing new challenges daily from resource gathering to defending against zombies.
@@ -18,5 +18,3 @@
 </td>
 </tr>
 </table>
-
-
