@@ -7,13 +7,15 @@
 
 <table>
 <tr>
-<td style="width: 100%;">
+<td style="width: 70%;">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRibTVtZDZ1MDFndGVmY3d1ZWVqMXB6N3lobTZ1YXZlaTI1Y3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ShGd39E9SP61uOBrPO/giphy.gif" style="width: 100%; height: auto;">
 
 </td>
+<td style="width: 30%; vertical-align: top;">
+
+**3D Game:** A challenging 3D survival game where players must navigate a dynamic environment, facing new challenges daily from resource gathering to defending against zombies.
+
+</td>
 </tr>
 </table>
-
-- **3D Game:** A challenging 3D survival game where players must navigate a dynamic environment, facing new challenges daily from resource gathering to defending against zombies.
-
