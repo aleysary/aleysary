@@ -20,7 +20,7 @@
 </tr>
 </table>
 
-## Languages & Tools On Here
+## Languages & Tools My Github
 <div style="width: 30px; border-bottom: 2px solid #000; padding-bottom: 2;"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,java,py,cs,linux" style="width: 30%; height: auto;">
