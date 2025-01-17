@@ -6,7 +6,7 @@
   <img src="https://simpleicons.org/icons/css3.svg" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/python.svg" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/java.svg" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/csharp.svg" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/cpp.svg" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/linux.svg" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/unix.svg" width="40" height="40"/>
 </p>
