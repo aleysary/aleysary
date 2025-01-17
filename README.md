@@ -1,11 +1,5 @@
 ##### Hi there 👋 
 ## Welcome to my Github Portfolio  
- <div style="width: 30px; border-bottom: 2px solid #000; padding-bottom: 2;"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,py,cs,linux" style="width: 30%; height: auto;">
-  </a> </div>
-  
-
 ###### I’m Aley Sary, a Computer Science major at Frostburg State University. I’m passionate about technology, problem-solving, and creating things that make a difference or just for fun. Whether it’s building apps, designing websites, or diving into challenging coding projects, I enjoy exploring new ideas and pushing myself to learn and grow.
 ###### I’ve worked with a variety of tools and languages. While many of my projects are private, my public repositories give a glimpse into the diverse work I enjoy
 
@@ -25,3 +19,9 @@
 </td>
 </tr>
 </table>
+
+#### 
+<div style="width: 30px; border-bottom: 2px solid #000; padding-bottom: 2;"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,py,cs,linux" style="width: 30%; height: auto;">
+  </a> </div>
