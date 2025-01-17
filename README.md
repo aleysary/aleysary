@@ -1,15 +1,7 @@
 ##### Hi there 👋 
 ## Welcome to my Github Portfolio 
 ## 
-<p float="left">
-  <img src="https://simpleicons.org/icons/html5.svg" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/css3.svg" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/python.svg" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/java.svg" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/cpp.svg" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/linux.svg" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/unix.svg" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=,html,css,java,py,cs,linux,)](https://skillicons.dev)
 ###### I’m Aley Sary, a Computer Science major at Frostburg State University. I’m passionate about technology, problem-solving, and creating things that make a difference or just for fun. Whether it’s building apps, designing websites, or diving into challenging coding projects, I enjoy exploring new ideas and pushing myself to learn and grow.
 ###### I’ve worked with a variety of tools and languages. While many of my projects are private, my public repositories give a glimpse into the diverse work I enjoy
 
