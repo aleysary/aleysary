@@ -5,12 +5,14 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="100%" colspan="2">
 
-![3D Game Preview](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRibTVtZDZ1MDFndGVmY3d1ZWVqMXB6N3lobTZ1YXZlaTI1Y3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ShGd39E9SP61uOBrPO/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRibTVtZDZ1MDFndGVmY3d1ZWVqMXB6N3lobTZ1YXZlaTI1Y3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ShGd39E9SP61uOBrPO/giphy.gif" alt="3D Game Preview" style="width:100%; height:auto;">
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%" colspan="2">
 
 ### Current Projects:
 - **3D Game:** A challenging 3D survival game where players must navigate a dynamic environment, facing new challenges daily from resource gathering to defending against zombies.
