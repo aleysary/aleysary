@@ -1,7 +1,7 @@
 ##### Hi there 👋 
 ## Welcome to my Github Portfolio  
 ###### I’m Aley Sary, a Computer Science major at Frostburg State University. I’m passionate about technology, problem-solving, and creating things that make a difference or just for fun. Whether it’s developing a genomic data processor, designing a pokedex, or diving into challenging coding projects like my 3D game, I enjoy exploring new ideas and pushing myself to learn and grow.
-###### I’ve worked with a variety of tools and languages. While many of my projects are private, my public repositories give a glimpse into the diverse work I enjoy
+###### I’ve worked with a variety of tools and languages. While many of my projects are private or not connected to github, my public repositories give a glimpse into the diverse work I enjoy
 
 ### Current Projects:
 
